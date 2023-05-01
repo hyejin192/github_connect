@@ -13,8 +13,12 @@ Git이란, Git을 통해서 github과 연결할 수 있다.
 ![image](https://user-images.githubusercontent.com/129017064/235417884-d534f35f-bd68-46fa-9628-250c06c43121.png)
 * 😕유저 이름 설정
         git config --global  user.name "hyejin192" 입력
+* 😕유저 이메일 설정
+        git config --global user.email "jini1728@naver.com" 입력
+* 내 정보 확인하기
+        git config --
 
-
+##  위의 연결은 해당 컴퓨터에서 한 번에 실행하면 됨
 
   
 
