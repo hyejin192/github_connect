@@ -42,5 +42,14 @@ Git이란, Git을 통해서 github과 연결할 수 있다.
                         git push origin master
 
   
+--------------------------------------------------------------
+## 수정하여 다시 업로드 할 때 
 
+1. 기존의 코드를 다운 받는 행위를 해야한다
+ 
+        git pull origin master 실행
+        
+2. 다시 push 해야한다
+
+        git push origin master      
    
