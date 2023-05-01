@@ -24,22 +24,28 @@ Git이란, Git을 통해서 github과 연결할 수 있다.
 ## 🎱 github에 코드 업로드하기
 - 초기화
 
-                        git init 입력
+        git init 입력
+        
 - 추가할 파일(폴더 안에 내용을 모두 올림,  .은 모든 파일을 의미)
         
-                        git add .
+        git add .
+        
 - 히스토리 만들기(-m 은 메시지를 의미함 , ""안에는 히스토리 이름을 적용)  
         
-                        git commit -m "first commit"
+        git commit -m "first commit"
+        
 - github에 repository(README.md 선택 X)를 만들고 그 주소의 연결하기
         
-                        git remote add origin https://github.com/hyejin192/css_flex.git
+        git remote add origin https://github.com/hyejin192/css_flex.git
+        
 - 연결이 잘 되었는지 확인하기 (필수x)
 
-                        git remote -v
+        git remote -v
+        
 ![image](https://user-images.githubusercontent.com/129017064/235423114-2dcf82d6-157a-4101-b643-38aafb60640b.png)
 - github에 올리기
-                        git push origin master
+
+        git push origin master
 
   
 --------------------------------------------------------------
