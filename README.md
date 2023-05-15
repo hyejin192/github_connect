@@ -58,4 +58,15 @@ Git이란, Git을 통해서 github과 연결할 수 있다.
 2. 다시 push 해야한다
 
         git push origin master      
-   
+        
+--------------------------------------------------------------------
+# Github 협업하는 방법
+
+1. 소스코드 다운로드
+        git clone 주소
+        ![image](https://github.com/hyejin192/github_connect/assets/129017064/3e72a751-f12f-4b8c-baa0-11d03d303f26)
+        
+2. 터미널에 주소 치기
+        git clone https://github.com/hyejin192/hanacard.git
+        
+
