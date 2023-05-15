@@ -67,10 +67,13 @@ Git이란, Git을 통해서 github과 연결할 수 있다.
         git clone 주소
 ![image](https://github.com/hyejin192/github_connect/assets/129017064/40923847-800e-4571-bd42-5ca1e48c8562)
 
+2. 새폴더 만들기
         
-        
-2. 터미널에 주소 치기
+3. 터미널에 주소 치기
 
         git clone https://github.com/hyejin192/hanacard.git
-        
+     
+     
+![image](https://github.com/hyejin192/github_connect/assets/129017064/74930d02-5327-4df7-86c1-6ec76de96d0c)
+
 
