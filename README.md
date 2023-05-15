@@ -82,8 +82,8 @@ Git이란, Git을 통해서 github과 연결할 수 있다.
         
         git origin hana
         
-        ![image](https://github.com/hyejin192/github_connect/assets/129017064/3da56d39-c73e-40a6-ab17-eb88d00ee43f)
+![image](https://github.com/hyejin192/github_connect/assets/129017064/3da56d39-c73e-40a6-ab17-eb88d00ee43f)
         
-        ![image](https://github.com/hyejin192/github_connect/assets/129017064/71958e83-a7a0-42fa-8ed7-7745f7cb3c99)
+![image](https://github.com/hyejin192/github_connect/assets/129017064/71958e83-a7a0-42fa-8ed7-7745f7cb3c99)
 
 
