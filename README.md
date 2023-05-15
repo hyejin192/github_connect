@@ -76,4 +76,14 @@ Git이란, Git을 통해서 github과 연결할 수 있다.
      
 ![image](https://github.com/hyejin192/github_connect/assets/129017064/74930d02-5327-4df7-86c1-6ec76de96d0c)
 
+4. 브랜치(branch) 만들기 - 수정해서 다시 올리기
+
+        git checkout -b hana 
+        
+        git origin hana
+        
+        ![image](https://github.com/hyejin192/github_connect/assets/129017064/3da56d39-c73e-40a6-ab17-eb88d00ee43f)
+        
+        ![image](https://github.com/hyejin192/github_connect/assets/129017064/71958e83-a7a0-42fa-8ed7-7745f7cb3c99)
+
 
