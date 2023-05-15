@@ -65,7 +65,7 @@ Git이란, Git을 통해서 github과 연결할 수 있다.
 1. 소스코드 다운로드 
 
         git clone 주소
-        ![image](https://github.com/hyejin192/github_connect/assets/129017064/40923847-800e-4571-bd42-5ca1e48c8562)
+![image](https://github.com/hyejin192/github_connect/assets/129017064/40923847-800e-4571-bd42-5ca1e48c8562)
 
         
         
