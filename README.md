@@ -90,4 +90,9 @@ Git이란, Git을 통해서 github과 연결할 수 있다.
 
 ![image](https://github.com/hyejin192/github_connect/assets/129017064/3da56d39-c73e-40a6-ab17-eb88d00ee43f)
 
+![image](https://github.com/hyejin192/github_connect/assets/129017064/866b9057-5b4d-4bde-8d57-d50807bbde7e)
+
+![image](https://github.com/hyejin192/github_connect/assets/129017064/7fcfb122-88b4-45ea-94cc-4749bee6a7d7)
+
+
 
