@@ -70,6 +70,7 @@ Git이란, Git을 통해서 github과 연결할 수 있다.
         
         
 2. 터미널에 주소 치기
+
         git clone https://github.com/hyejin192/hanacard.git
         
 
